@@ -41,7 +41,7 @@ This regions table contains the region_id and their respective region_name value
 ### Table 2: customer_nodes
 In this table, Customers are randomly distributed across the nodes according to their region. This random distribution changes frequently to reduce the risk of hackers getting into Data Bank’s system and stealing customer’s money and data!
 
-### Table 2: customer_transactions
+### Table 3: customer_transactions
 This table stores all customer deposits, withdrawals and purchases made using their Data Bank debit card.
 
 ## Case Study Analysis with Insights
